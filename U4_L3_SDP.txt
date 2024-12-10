@@ -1,0 +1,2 @@
+It will be similar to the previous lab as I am still taking what is at the end and putting it at the beginning of a new string
+It will differ as I need to remove any special characters first, which will be a pain but is doable
